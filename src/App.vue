@@ -78,6 +78,11 @@ export default {
         name: "狗按钮/ころねボタン",
         href: "https://korone.icu/",
         color: "brown"
+      },
+      {
+        name: "樱按钮/みこボタン",
+        href: "https://sakuramiko.org/",
+        color: "pink"
       }
     ]
     //
